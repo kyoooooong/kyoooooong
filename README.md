@@ -4,8 +4,7 @@
 
 ## My Stats
 
-[![코드트리|실력진단-aster000b](https://banner.codetree.ai/v1/banner/aster000b)](https://www.codetree.ai/profiles/aster000b)
-
+[![코드트리|실력진단-kyooooong](https://banner.codetree.ai/v1/banner/kyooooong)](https://www.codetree.ai/profiles/kyooooong)
 <br>
 
 ## Back-end Stack 
