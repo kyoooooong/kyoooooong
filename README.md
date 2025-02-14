@@ -5,20 +5,24 @@
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoooooong&show_icons=true&theme=radical)
 [![코드트리|실력진단-kyooooong](https://banner.codetree.ai/v1/banner/kyooooong)](https://www.codetree.ai/profiles/kyooooong)
-##
 
-## Stacks
+## 
 
+### Languages
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java"> 
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white" alt="C++">
   </div>
+  
+### Frameworks
    <div>
     <img src="https://img.shields.io/badge/Spring-092E20?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" alt="Django">
   </div>
+
+### Etc
   <div>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"> 
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
