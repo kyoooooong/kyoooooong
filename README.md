@@ -29,10 +29,6 @@
  </div>
     
 ## 🤔 Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoooooong&show_icons=true&theme=radical)
+[![코드트리|실력진단-kyooooong](https://banner.codetree.ai/v1/banner/kyooooong)](https://www.codetree.ai/profiles/kyooooong)
 
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-  <div>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoooooong)](https://github.com/anuraghazra/github-readme-stats)
-    [![코드트리|실력진단-kyooooong](https://banner.codetree.ai/v1/banner/kyooooong)](https://www.codetree.ai/profiles/kyooooong)
-  </div>
-</div>
