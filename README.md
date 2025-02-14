@@ -6,7 +6,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoooooong&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoooooong&layout=compact" alt="Top Langs" />
 [![코드트리|실력진단-kyooooong](https://banner.codetree.ai/v1/banner/kyooooong)](https://www.codetree.ai/profiles/kyooooong)
 
 
