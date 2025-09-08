@@ -12,7 +12,7 @@
 <h2>💻 Experience</h2>
 <li> 인하대학교 멋쟁이사자처럼 12기 백엔드파트 <sub>(2024.03 ~ 2024.12)</sub></li>
 <li> 인하대학교 UMC 7기 spring 파트 <sub>(2024.08 ~ 2025.02)</sub></li>
-<li> SOPT 36기 server 파트 yb <sub>(2025.03 ~ 2023.08)</sub></li>
+<li> SOPT 36기 server 파트 yb <sub>(2025.03 ~ 2025.08)</sub></li>
 <li> 인하대학교 멋쟁이사자처럼 13기 백엔드 운영진 / 중앙운영단 <sub>(2025.03 ~ 2025.09)</sub></li>
 <li> SOPT 37기 server 파트 ob <sub>(2025.09 ~ )</sub></li>
 
