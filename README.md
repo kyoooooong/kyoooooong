@@ -17,7 +17,7 @@
 <li> SOPT 37기 server 파트 ob <sub>(2025.09 ~ )</sub></li>
 
 <h2>⭐️ Projects</h2>
-<li> 💌 사회초년생을 위한 경조사비 서비스, <a href="https://github.com/bongtubaekseo">Bongtubaekseo</a> 💌 : 경조사비 앱 서비스 <sub>(2025.07 ~ )</sub></li>
+<li> 💌 사회초년생을 위한 맞춤형 경조사비 추천, <a href="https://github.com/bongtubaekseo">Bongtubaekseo</a> 💌 : 경조사 앱 서비스 <sub>(2025.07 ~ )</sub></li>
 
 <h2>🔗 Status</h2>
 <img src="https://komarev.com/ghpvc/?username=kyoooooong&color=yellow&label=PROFILE+VIEWS"/>
