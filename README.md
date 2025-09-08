@@ -21,8 +21,8 @@
 <br><br>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-nhd2.vercel.app/api?username=kyoooooong&show_icons=true&theme=synthwave&bg_color=141414&text_color=a3a3a3" />
-<img height="180em" src="https://github-readme-stats-nhd2.vercel.app/api/top-langs/?username=kyoooooong&layout=compact&hide=jupyter%20notebook&theme=synthwave&bg_color=141414&text_color=a3a3a3" />
+<img height="160em" src="https://github-readme-stats-nhd2.vercel.app/api?username=kyoooooong&show_icons=true&theme=synthwave&bg_color=141414&text_color=a3a3a3" />
+<img height="160em" src="https://github-readme-stats-nhd2.vercel.app/api/top-langs/?username=kyoooooong&layout=compact&hide=jupyter%20notebook&theme=synthwave&bg_color=141414&text_color=a3a3a3" />
 </p>
 <br><br>
 </div>
