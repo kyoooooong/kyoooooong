@@ -15,6 +15,7 @@
 <li> SOPT 36기 server 파트 yb <sub>(2025.03 ~ 2025.08)</sub></li>
 <li> 인하대학교 멋쟁이사자처럼 13기 백엔드 운영진 / 중앙운영단 <sub>(2025.03 ~ 2025.09)</sub></li>
 <li> SOPT 37기 server 파트 ob <sub>(2025.09 ~ )</sub></li>
+<li> 인하대학교 현장실습 백엔드 인턴 (kotlin, spring) <sub>(2025.07 ~ 2025.12)</sub></li>
 
 <h2>⭐️ Projects</h2>
 <li> 💌 사회초년생을 위한 맞춤형 경조사비 추천, <a href="https://github.com/bongtubaekseo">Bongtubaekseo</a> 💌 : 경조사 앱 서비스 <sub>(2025.07 ~ )</sub></li>
