@@ -13,10 +13,10 @@
 <li> 인하대학교 멋쟁이사자처럼 12기 backend 파트 <sub>(2024.03 ~ 2024.12)</sub></li>
 <li> 인하대학교 UMC 7기 spring 파트 <sub>(2024.08 ~ 2025.02)</sub></li>
 <li> SOPT 36기 server 파트 yb <sub>(2025.03 ~ 2025.08)</sub></li>
-<li> 인하대학교 멋쟁이사자처럼 13기 백엔드 운영진 / 중앙운영단 <sub>(2025.03 ~ 2025.09)</sub></li>
+<li> 인하대학교 멋쟁이사자처럼 13기 backend 운영진 / 중앙운영단 <sub>(2025.03 ~ 2025.09)</sub></li>
 <li> 인하대학교 현장실습 백엔드 인턴 (kotlin, spring) <sub>(2025.07 ~ 2025.12)</sub></li>
 <li> SOPT 37기 server 파트 ob <sub>(2025.09 ~ 2026.02)</sub></li>
-<li> SOPT makers 38기 server 파트 <sub>(2026.01 ~ )</sub></li>
+<li> SOPT makers 38기 backend developer <sub>(2026.01 ~ )</sub></li>
 
 <h2>⭐️ Projects</h2>
 <li> 💌 사회초년생을 위한 맞춤형 경조사비 추천, <a href="https://github.com/bongtubaekseo">Bongtubaekseo</a> 💌 : 경조사 앱 서비스 <sub>(2025.07 ~ )</sub></li>
