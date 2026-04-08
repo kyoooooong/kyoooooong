@@ -1,5 +1,7 @@
 ### Minkyeong Kim
 
+🙌
+
 <br>
 
 ### Experiences
