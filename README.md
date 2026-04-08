@@ -17,7 +17,7 @@
 
 ### Projects
 
-- [SOPT]((https://github.com/sopt-makers/sopt-backend) - IT 연합동아리 SOPT 공식앱 `(26.02 ~ )`
+- [SOPT](https://github.com/sopt-makers/sopt-backend) - IT 연합동아리 SOPT 공식앱 `(26.02 ~ )`
 - [SMASHING](https://github.com/TEAM-SMASHING) - 스포츠인들을 위한 매칭 서비스  `(25.12 ~ )`
 - [봉투백서](https://github.com/bongtubaekseo) - 사회초년생을 위한 맞춤형 경조사비 추천  `(25.06 ~ )`
 
