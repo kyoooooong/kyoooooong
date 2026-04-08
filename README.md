@@ -1,34 +1,39 @@
-<div align=center>	
+### Minkyeong Kim
 
-<h2>🛠 Stack</h2>
-<h4>📌 BE</h4>
-<img src="https://img.shields.io/badge/Python-61DAFB?style=flat-square&&logo=Python&logoColor=white"/>
+<br>
+
+### Experiences
+
+- SOPT makers BE 챕터 `(26.02 ~ ing)`
+- 인하대학교 현장실습 BE Developer Intern (kotlin, spring) `(25.07 ~ 25.12)`
+- 인하대학교 멋쟁이사자처럼 13기 BE 챕터 운영진/중앙운영단 (python, django) `(25.01 ~ 26.02)`
+- SOPT 36, 37th BE 챕터 `(25.03 ~ 26.02)`
+- 인하대학교 UMC 7기 BE 챕터 `(24.09 ~ 25.02)`
+- 인하대학교 멋쟁이사자처럼 12기 BE 챕터 `(24.03 ~ 25.02)`
+
+<br>
+
+### Projects
+
+- [SOPT]((https://github.com/sopt-makers/sopt-backend) - IT 연합동아리 SOPT 공식앱 `(26.02 ~ )`
+- [SMASHING](https://github.com/TEAM-SMASHING) - 스포츠인들을 위한 매칭 서비스  `(25.12 ~ )`
+- [봉투백서](https://github.com/bongtubaekseo) - 사회초년생을 위한 맞춤형 경조사비 추천  `(25.06 ~ )`
+
+<br>
+
+### Stacks 
+<div align=left>	
 <img src="https://img.shields.io/badge/Kotlin-007396?style=flat-square&&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-3178C6?style=flat-square&logo=Django"/>
+  <img src="https://img.shields.io/badge/Python-61DAFB?style=flat-square&&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot"/>
-
-<h2>💻 Experience</h2>
-<li> 인하대학교 멋쟁이사자처럼 12기 backend 파트 <sub>(2024.03 ~ 2024.12)</sub></li>
-<li> 인하대학교 UMC 7기 spring 파트 <sub>(2024.08 ~ 2025.02)</sub></li>
-<li> SOPT 36기 server 파트 yb <sub>(2025.03 ~ 2025.08)</sub></li>
-<li> 인하대학교 멋쟁이사자처럼 13기 backend 운영진 / 중앙운영단 <sub>(2025.03 ~ 2025.09)</sub></li>
-<li> 인하대학교 현장실습 백엔드 인턴 (kotlin, spring) <sub>(2025.07 ~ 2025.12)</sub></li>
-<li> SOPT 37기 server 파트 ob <sub>(2025.09 ~ 2026.02)</sub></li>
-<li> SOPT makers 38기 App 팀 BE 챕터 <sub>(2026.02 ~ )</sub></li>
-
-<h2>⭐️ Projects</h2>
-<li> 💌 사회초년생을 위한 맞춤형 경조사비 추천, <a href="https://github.com/bongtubaekseo">Bongtubaekseo</a> 💌 : 경조사 앱 서비스 <sub>(2025.07 ~ )</sub></li>
-<li> ⚡️ 스포츠인들을 위한 매칭 서비스, <a href="https://github.com/TEAM-SMASHING">Smashing</a> 💌 : 스포츠 매칭 앱 서비스 <sub>(2025.12 ~ )</sub></li>
-
-<h2>🔗 Status</h2>
-<img src="https://komarev.com/ghpvc/?username=kyoooooong&color=yellow&label=PROFILE+VIEWS"/>
-<br><br>
-
-<p align="center">
-<img height="160em" src="https://github-readme-stats-nhd2.vercel.app/api?username=kyoooooong&show_icons=true&theme=synthwave&bg_color=141414&text_color=a3a3a3" />
-<img height="160em" src="https://github-readme-stats-nhd2.vercel.app/api/top-langs/?username=kyoooooong&layout=compact&hide=jupyter%20notebook&theme=synthwave&bg_color=141414&text_color=a3a3a3" />
-</p>
-<br><br>
+  <img src="https://img.shields.io/badge/Django-3178C6?style=flat-square&logo=Django"/>
 </div>
+<br>
+
+### Status
+
+<img src="https://komarev.com/ghpvc/?username=kyoooooong&color=yellow&label=PROFILE+VIEWS"/>
+<img height="160em" src="https://github-readme-stats-nhd2.vercel.app/api?username=kyoooooong&show_icons=true&theme=synthwave&bg_color=141414&text_color=a3a3a3" />
+
