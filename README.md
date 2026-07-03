@@ -6,7 +6,7 @@
 
 ### Experiences
 
-- SOPT makers BE 챕터 (java, spring) `(26.02 ~ ing)`
+- SOPT makers BE 챕터 (java, spring) `(26.02 ~ 26.08)`
 - 인하대학교 현장실습 BE Developer Intern (kotlin, spring) `(25.07 ~ 25.12)`
 - 인하대학교 멋쟁이사자처럼 13기 BE 챕터 운영진/중앙운영단 (python, django) `(25.01 ~ 26.02)`
 - SOPT 36, 37th BE 챕터 `(25.03 ~ 26.02)`
