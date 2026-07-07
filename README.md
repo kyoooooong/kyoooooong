@@ -6,7 +6,7 @@
 
 ### Experiences
 
-- SOPT makers BE 챕터 (java, spring) `(26.02 ~ 26.08)`
+- SOPT makers BE 챕터 (java, spring) `(26.02 ~ ~ing)`
 - 인하대학교 현장실습 BE Developer Intern (kotlin, spring) `(25.07 ~ 25.12)`
 - 인하대학교 멋쟁이사자처럼 13기 BE 챕터 운영진/중앙운영단 (python, django) `(25.01 ~ 26.02)`
 - SOPT 36, 37th BE 챕터 `(25.03 ~ 26.02)`
@@ -17,6 +17,7 @@
 
 ### Projects
 
+- [Kindl](https://github.com/Team-Kindl/Kindl-Server) - 집중력 강화를 위한 앱 서비스
 - [SOPT](https://github.com/sopt-makers/sopt-backend) - IT 연합동아리 SOPT 공식앱 `(26.02 ~ )`
 - [SMASHING](https://github.com/TEAM-SMASHING) - 스포츠인들을 위한 매칭 서비스  `(25.12 ~ )`
 - [봉투백서](https://github.com/bongtubaekseo) - 사회초년생을 위한 맞춤형 경조사비 추천  `(25.06 ~ )`
